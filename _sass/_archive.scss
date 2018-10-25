@@ -33,8 +33,9 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.0em;
   font-family: $sans-serif-narrow;
+
 
   a + a {
     opacity: 0.5;
@@ -47,6 +48,8 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
+
+    padding-bottom: 0;
   }
 }
 
@@ -56,6 +59,7 @@
 
   & + p {
     text-indent: 0;
+    text-align: justify;
   }
 }
 
@@ -67,13 +71,18 @@
   }
 }
 
+.archive__item {
+  padding-left: 30px;
+}
+
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    // margin-bottom: 0px;
+  //   text-decoration: underline;
   }
 }
 
