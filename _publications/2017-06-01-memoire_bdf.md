@@ -10,7 +10,7 @@ weakenned when the country has a low tax compliance. This effect is robust to a 
 fiscal policy proxy. The specification of the model enables us to distangle the effect of the fiscal
 consolidation and that of the tax compliance. Finally we compute partial elasticity of government
 bond yield spread to fiscal consolidation.'
-date: 2015-06-01
+date: 2016-08-01
 venue: 'Banque de France report'
 paperurl: '/files/sarah_gharbi_memoire_bdf.pdf'
 ---
