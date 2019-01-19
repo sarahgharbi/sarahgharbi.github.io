@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I hold a MSc in Economics from ENS Cachan where I specialized in microeconomics
-and public economics. Currently, I am interning at the University of California
+I hold a MSc in Economics from ENS Paris-Saclay where I specialized in Microeconomics
+and Public Economics. Currently, I am interning at the University of California
 Santa Barbara as a research assistant with Pr. Youssef Benzarti, working on
-fiscal incidence.
+taxation.
 
-I plan to start a PhD program in public finance in Fall 2019.
+I plan to start a PhD program in Public Finance in Fall 2019.
 
 References available upon request.
 
