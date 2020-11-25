@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I hold a MSc in Economics from ENS Paris-Saclay where I specialized in Microeconomics
-and Public Economics. Currently, I am interning at the University of California
+I am a second year PhD student at  the University of Mannheim (Germany) and work for ZEW -- Leibniz-Zentrum für Europäische Wirtschaftsforschung.
+My supervisors are Pr. Sebastian Siegloch and Pr. Johannes Voget. Previously, I interned at the University of California
 Santa Barbara as a research assistant with Pr. Youssef Benzarti, working on
 taxation.
+I hold a MSc in Economics from ENS Paris-Saclay where I specialized in Microeconomics
+and Public Economics. 
 
-I plan to start a PhD program in Public Finance in Fall 2019.
 
 References available upon request.
 
