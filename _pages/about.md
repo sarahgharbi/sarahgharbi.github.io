@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second year PhD student in taxation at  the University of Mannheim (Germany) and work for ZEW -- Leibniz-Zentrum für Europäische Wirtschaftsforschung.
-My supervisors are Pr. Sebastian Siegloch and Pr. Johannes Voget. 
+I am a PhD student in Public Economics at the University of Cologne (Germany). I recently transfered from University of Mannheim following my supervisor Pr. Sebastian Siegloch. I previously worked as junior researcher at ZEW -- Leibniz-Zentrum für Europäische Wirtschaftsforschung.
 
-Previously, I interned at the University of California
+
+Before starting my PhD, I interned at the University of California
 Santa Barbara as a research assistant with Pr. Youssef Benzarti, working on
-taxation. I hold a MSc in Economics from ENS Paris-Saclay where I specialized in Microeconomics
+taxation. I hold a MSc in Economics from ENSAE/Polytechnique where I specialized in Microeconomics
 and Public Economics. 
 
 
