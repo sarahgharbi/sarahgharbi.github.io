@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarah GHARBI"
+title                    : "Sarah Gharbi"
 title_separator          : "-"
 name                     : &name "Sarah Gharbi"
 description              : &description "research assistant"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Sarah Gharbi"
   avatar           : "profile.png"
-  bio              : "I hold a MSc in Economics from ENS Cachan and I am currently applying to PhD programs."
-  location         : "Santa Barbara, CA"
+  bio              : "I am a PhD candidate at the University of Cologne."
+  location         : "Cologne, Germany"
   employer         :
   googlescholar    :
-  email            : "sarah.suzanne.gharbi@gmail.com"
+  email            : "sgharbi@gwiso.uni-koeln.de"
   uri              :
   bitbucket        :
   codepen          :
