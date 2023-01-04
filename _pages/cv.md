@@ -1,13 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: 'pages/cv'
-author_profile: true
-paperurl: 'files/CV.pdf'
-redirect_from: 
- - /resume
- 
-
+permalink: /cv/
+ author_profile: true
+ redirect_from:
+   - /resume
 ---
 
 {% include base_path %}
