@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "CV"
-permalink: '/files/CV.pdf'
+permalink: 'files/CV.pdf'
 author_profile: true
-redirect_from: '/files/CV.pdf'
+redirect_from: CV
 
 ---
 
