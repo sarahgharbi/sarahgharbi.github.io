@@ -1,10 +1,12 @@
 ---
 layout: archive
 title: "CV"
-permalink: 'files/CV.pdf'
+permalink: 'pages/cv'
 author_profile: true
+paperurl: 'files/CV.pdf'
 redirect_from: 
  - /resume
+ 
 
 ---
 
