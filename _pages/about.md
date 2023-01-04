@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in Public Economics at the University of Cologne (Germany). I recently transfered from University of Mannheim following my supervisor Pr. Sebastian Siegloch. I previously worked as junior researcher at ZEW -- Leibniz-Zentrum für Europäische Wirtschaftsforschung.
+I am a PhD candidate in Public Economics at the University of Cologne (Germany). I recently transfered from University of Mannheim following my supervisor Pr. Sebastian Siegloch. I previously worked as junior researcher at ZEW -- Leibniz-Zentrum für Europäische Wirtschaftsforschung.
 
 
 Before starting my PhD, I interned at the University of California
