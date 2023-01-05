@@ -1,10 +1,8 @@
-
-
 ---
 layout: single
 title:  "Business tax, capital and labor"
 header:
-  teaser: 
+  teaser: ""
 categories: 
   - Jekyll
 tags:
