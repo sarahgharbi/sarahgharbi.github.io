@@ -29,6 +29,6 @@ References available upon request.
 {% endfor %}
 # Work in Progress
 {% for post in site.drafts reversed %}
-  {% include archive.html %}
+  {% include archive-single.html %}
 {% endfor %}
 ---> 
