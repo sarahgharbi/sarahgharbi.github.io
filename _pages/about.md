@@ -25,4 +25,7 @@ References available upon request.
 {% endif %}
 
 {% include base_path %}
-
+# Work in Progress
+{% for post in site.drafts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
