@@ -27,9 +27,10 @@ References available upon request.
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
----> 
+
 
 # Work in Progress
 {% for post in site.drafts reversed %}
   {% include archive.html %}
 {% endfor %}
+---> 
