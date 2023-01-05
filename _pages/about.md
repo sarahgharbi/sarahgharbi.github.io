@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 I am a PhD candidate in Public Economics at the University of Cologne (Germany). I recently transferred from University of Mannheim. I previously worked as a researcher at ZEW -- Leibniz-Zentrum für Europäische Wirtschaftsforschung.
 
 
@@ -18,15 +19,17 @@ and Public Economics.
 
 References available upon request.
 
-# Publications
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+<!---# Publications 
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+---> 
 
 # Work in Progress
-{% include base_path %}
 {% for post in site.drafts reversed %}
   {% include archive-single.html %}
 {% endfor %}
