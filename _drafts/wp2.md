@@ -1,6 +1,6 @@
 ---
 title: "ABC"
-collection: publications
+collection: drafts
 permalink: /drafts/
 excerpt: 'blah blag '
 date: 2016-08-01
