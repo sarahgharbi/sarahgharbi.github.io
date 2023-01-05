@@ -31,5 +31,5 @@ References available upon request.
 
 # Work in Progress
 {% for post in site.drafts reversed %}
-  {% include archive-single.html %}
+  {% include archive.html %}
 {% endfor %}
