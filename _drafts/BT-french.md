@@ -1,12 +1,12 @@
----
-title: "Business tax, capital and labor"
-collection: drafts
-permalink: 
-excerpt: 
-date: 
-venue: 'with Andreas Lichter, Emilie Sartre and Sebastian Siegloch'
-authors: 'sgh'
-paperurl: 
----
 
 
+---
+layout: single
+title:  "Business tax, capital and labor"
+header:
+  teaser: 
+categories: 
+  - Jekyll
+tags:
+  - edge case
+---
