@@ -176,6 +176,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  drafts:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -222,7 +225,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-    # _publications
+    # _drafts
   - scope:
       path: ""
       type: drafts
