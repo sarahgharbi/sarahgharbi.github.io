@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
-I am a PhD candidate in Public Economics at the University of Cologne (Germany). I am also affiliated to the [ECONtribute: Markets & Public Policy](https://econtribute.de/about-us-econtribute/) Cluster of Excellence.  I recently transferred from University of Mannheim, where I started my PhD. I previously worked as a researcher at [ZEW](https://www.zew.de/en/) -- Leibniz-Zentrum für Europäische Wirtschaftsforschung.
+I am a PhD candidate in Public Economics at the University of Cologne, Germany. I am also affiliated to the [ECONtribute: Markets & Public Policy](https://econtribute.de/about-us-econtribute/) Cluster of Excellence.  I recently transferred from University of Mannheim, where I started my PhD. I previously worked as a researcher at [ZEW](https://www.zew.de/en/) -- Leibniz-Zentrum für Europäische Wirtschaftsforschung.
 
 
 Before starting my PhD, I interned at the University of California
