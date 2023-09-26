@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
-I am a PhD candidate in Public Economics at the University of Cologne, Germany. I am also affiliated to the [ECONtribute: Markets & Public Policy](https://econtribute.de/about-us-econtribute/) Cluster of Excellence.  I recently transferred from University of Mannheim, where I started my PhD. I previously worked as a researcher at [ZEW](https://www.zew.de/en/) -- Leibniz-Zentrum für Europäische Wirtschaftsforschung.
+I am a PhD candidate in Applied Economics at the University of Cologne, Germany. I am affiliated with the [ECONtribute: Markets & Public Policy](https://econtribute.de/about-us-econtribute/) Cluster of Excellence.  I recently transferred from the University of Mannheim, where I started my PhD. I previously worked as a researcher at [ZEW](https://www.zew.de/en/) -- Leibniz Center for European Economic Research.
 
 
 Before starting my PhD, I interned at the University of California
 Santa Barbara as a research assistant with Pr. Youssef Benzarti, working on
-taxation. I hold a MSc in Economics from ENSAE/Polytechnique where I specialized in Microeconomics
+taxation. I hold an MSc in Economics from ENSAE/Polytechnique specializing in Microeconomics
 and Public Economics. 
 
 
@@ -23,7 +23,7 @@ References available upon request.
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<!---# Publications 
+Publications 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
@@ -31,4 +31,4 @@ References available upon request.
 {% for post in site.drafts reversed %}
   {% include archive-single.html %}
 {% endfor %}
----> 
+
