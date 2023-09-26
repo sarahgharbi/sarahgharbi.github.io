@@ -33,9 +33,9 @@
     <p>
       <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
       <br/>
-      <a href="{{base_path}}{{ post.paperurl }} ">
+       <!--<a href="{{base_path}}{{ post.paperurl }} ">
           <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-      </a>
+      </a>-->
     </p>
 
     {% if post.excerpt and site.read_more != 'enabled' %}
