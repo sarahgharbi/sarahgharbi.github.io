@@ -1,11 +1,9 @@
 ---
-layout: single
-title:  "Business tax, capital and labor"
-header:
-  teaser: " "
-categories: 
-  - Jekyll
-tags:
-  - edge case
+title: "Business Taxes and Firms' Location"
+collection: publications
+permalink: /publication/FBT
+excerpt:
+date: 2023-03-01
+venue:  'with Emilie Sartre and Sebastian Siegloch'
+paperurl: 
 ---
-with Andreas Lichter, Emilie Sartre and Sebastian Siegloch
