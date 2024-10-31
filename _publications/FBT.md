@@ -1,9 +1,9 @@
 ---
-title: "Business Taxes, Capital and Labor"
+title: "Business Taxes and Firms' Location"
 collection: publications
 permalink: /publication/FBT
 excerpt:
 date: 2023-03-01
-venue:  'with Andreas Lichter, Emilie Sartre and Sebastian Siegloch'
+venue:  'with Emilie Sartre and Sebastian Siegloch'
 paperurl: 
 ---
