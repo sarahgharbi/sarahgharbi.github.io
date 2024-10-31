@@ -6,7 +6,7 @@ excerpt: 'I assess the real effects of a firm-level tax on production inputs, fo
 taxes, tangible assets increase by 0.69%. Wages are not affected. I estimate a negative effect on employment: for a  1% reduction in taxes, employment decreased by 0.13%. Importantly, this reduction does not indicate direct job cuts but reflects differences in employment growth rates between capital-intensive and labor-intensive firms, with capital-intensive firms increasing employment more rapidly. This difference in employment growth can be explained by varying degrees of tax sensitivity depending on whether firms can deduct business tax payments from the corporate income tax.'
 date: 2024-09-01
 venue: 'single-authored'
-paperurl: 
+paperurl: files/JMP-Gharbi.pdf
 
 ---
 
