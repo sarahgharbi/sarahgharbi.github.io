@@ -19,7 +19,8 @@ and Public Economics. -->
 
 References available upon request.
 
-## Research Projects
+## My research 
+### Working papers
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -28,7 +29,7 @@ References available upon request.
 {% endfor %} 
 
 
-## Work in progress
+### Work in progress
 {% for post in site.drafts reversed %}
   {% include archive-single.html %}
 {% endfor %}
