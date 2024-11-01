@@ -27,13 +27,13 @@ References available upon request.
   {% include archive-single.html %}
 {% endfor %} 
 
-<!-- 
-Publications 
+
+## Work in progress
 {% for post in site.drafts reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
--->
+
 
 
 
