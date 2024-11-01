@@ -1,5 +1,5 @@
 ---
-title: "Redesigning taxes to increase economic activity? Evidence from a French Business tax reform (JMP) [PDF](/files/JMP-Gharbi.pdf) "
+title: "Redesigning taxes to increase economic activity? Evidence from a French Business tax reform [PDF](/files/JMP-Gharbi.pdf) "
 collection: publications
 permalink: /files/JMP-Gharbi.pdf
 excerpt: 'I assess the real effects of a firm-level tax on production inputs, focusing on the 1999 reform of the French local business tax. This reform excluded the wage bill from the tax base, leaving only capital inputs taxed.  Using administrative data, I evaluate the impact of this reform on the firms‘ outcomes. I exploit cross-sectional variation in firms‘ exposure to the reform based on the labor share in their pre-reform tax base. Applying a dynamic differences-in-differences approach, I show that the reform significantly reduces firms‘ tax liabilities and boosts firms‘ productivity. This increase in productivity can be attributed to firms using a large portion of the tax savings for investment, particularly among cash-constrained firms. For a 1% reduction in
