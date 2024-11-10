@@ -17,7 +17,7 @@ Santa Barbara as a research assistant with Pr. Youssef Benzarti, working on
 taxation. I hold an MSc in Economics from ENSAE/Polytechnique specializing in Microeconomics
 and Public Economics. -->
 
-References available upon request.
+
 
 ## My research 
 ### Working papers
