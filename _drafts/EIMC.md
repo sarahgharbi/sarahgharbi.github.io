@@ -1,5 +1,5 @@
 ---
-title: "Intermunicipal cooperation and economic activity"
+title: "Intermunicipal Cooperation and Economic Activity"
 collection: drafts
 permalink: /drafts/EIMC
 excerpt: ''
