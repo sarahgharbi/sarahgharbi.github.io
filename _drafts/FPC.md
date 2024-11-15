@@ -1,5 +1,5 @@
 ---
-title: "The effects of Family planning centers in the 21st Century"
+title: "The Effects of Family Planning Centers in the 21st Century"
 collection: drafts
 permalink: /drafts/FC
 excerpt:
