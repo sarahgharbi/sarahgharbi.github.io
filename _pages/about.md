@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
-I am a Ph.D. candidate in the Department of Economics at the University of Cologne, Germany. I am affiliated with the [ECONtribute: Markets & Public Policy](https://econtribute.de/about-us-econtribute/) Cluster of Excellence.  I recently transferred from the University of Mannheim, where I started my PhD. I previously worked as a researcher at [ZEW](https://www.zew.de/en/) -- Leibniz Center for European Economic Research.
+I am a Ph.D. candidate in the Department of Economics at the University of Cologne, Germany. I am affiliated with the [ECONtribute: Markets & Public Policy](https://econtribute.de/about-us-econtribute/) Cluster of Excellence.  
+<!--I recently transferred from the University of Mannheim, where I started my PhD. I previously worked as a researcher at [ZEW](https://www.zew.de/en/) -- Leibniz Center for European Economic Research.-->
 
 
-I will be on the 2024-25 Job Market.
+I will be joining the [Rockwool Foundation Berlin](https://www.rfberlin.com) (RFBerlin) as a postdoctoral researcher in September 2025.
 <!--Before starting my PhD, I interned at the University of California
 Santa Barbara as a research assistant with Pr. Youssef Benzarti, working on
 taxation. I hold an MSc in Economics from ENSAE/Polytechnique specializing in Microeconomics
