@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sarah Gharbi"
 title_separator          : "-"
 name                     : &name "Sarah Gharbi"
-description              : &description "PhD candidate"
+description              : &description "Economist"
 url                      : https://sarahgharbi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sarahgharbi/sarahgharbi.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Sarah Gharbi"
   avatar           : "profile.png"
-  bio              : "I am a PhD candidate at the University of Cologne."
-  location         : "Cologne, Germany"
+  bio              : "I am a Postdoctoral Researcher at RFBerlin."
+  location         : "Berlin, Germany"
   employer         :
   googlescholar    :
-  email            : "sgharbi@wiso.uni-koeln.de"
+  email            : "s.gharbi@rfberlin.com"
   uri              :
   bitbucket        :
   codepen          :
