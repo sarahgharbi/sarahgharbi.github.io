@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-I am a postdoctoral researcher the [Rockwool Foundation Berlin](https://www.rfberlin.com) (RFBerlin).
+I am a postdoctoral researcher at the [Rockwool Foundation Berlin](https://www.rfberlin.com) (RFBerlin).
 
 I obtained a PhD degree in Economics from the University of Cologne in 2025. Prior to joining the University of Cologne in 2022, I was a PhD student at the University of Mannheim and worked as a researcher in the group "Inequality and Public Policy" at the [ZEW](https://www.zew.de/en/) -- Leibniz Center for European Economic Research.
 
